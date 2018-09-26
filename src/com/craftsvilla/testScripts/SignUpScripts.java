@@ -12,6 +12,7 @@ public class SignUpScripts extends BaseTest
 	HomePage homepage=null;
 	SignInPage signinpage=null;
 
+	
 	@Test
 	public void SignUp()
 	{
